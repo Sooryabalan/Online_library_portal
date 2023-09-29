@@ -35,5 +35,5 @@ Follow these steps to set up the Online Library Portal on your local system for 
 1. **Clone the Repository:** 
 
    ```shell
-   git clone https://github.com/sooryabalan/online-library-portal.git
+   git clone https://github.com/Sooryabalan/online_library_portal.git
 
