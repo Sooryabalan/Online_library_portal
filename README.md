@@ -30,10 +30,3 @@ Follow these steps to set up the Online Library Portal on your local system for 
 - MySQL 8.0
 - Apache Tomcat 8.5
 
-### Installation
-
-1. **Clone the Repository:** 
-
-   ```shell
-   git clone https://github.com/Sooryabalan/online_library_portal.git
-
