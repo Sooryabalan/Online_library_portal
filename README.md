@@ -1,4 +1,4 @@
-# Online Library Porta
+# Online Library Portal
 
 ## Project Description
 
@@ -35,5 +35,5 @@ Follow these steps to set up the Online Library Portal on your local system for 
 1. **Clone the Repository:** 
 
    ```shell
-   git clone https://github.com/yourusername/online-library-portal.git
+   git clone https://github.com/sooryabalan/online-library-portal.git
 
